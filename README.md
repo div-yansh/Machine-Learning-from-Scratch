@@ -3,15 +3,15 @@ Machine Learning is the ability thorugh which computers can learn about differen
 
 There are three major kinds of machine learning techniques:
 
-1. <b> Supervised Learning: </b> 
+1. <b> Supervised Learning: </b> <br>
 In this, we provide labels for our data. This label is the result that a computer tries to predict for that data. <br>
 Example: Regressision, Classification
 
-2. <b> Unsupervised Learning: </b>
+2. <b> Unsupervised Learning: </b> <br>
 In this, we do not provide lables for our data. <br>
 Example: Clusterning
 
-3. <b> Reniforcemnet Learning: </b>
+3. <b> Reniforcemnet Learning: </b> <br>
 In this, we do not tell the conputer what the correct result is, but rather reward or penalize it according to how close or far it is to correct output. <br>
 
 
